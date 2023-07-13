@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Inception",
+      "body": "You only get to watch this for the first time once, so choose your state of mind carefully. It is a film about movies and dreams and reality, and what sort of life it is best to find when you leave the cinema and return to whatever you left to enter. It is spectacular, and brutal, and enigmatic and disturbing. It is beautiful and absorbing. It is about one of my favourite characters ever to grace the screen. I don't see it often, in case it's not as good as I like to remember it. That is my secret, that I lock away in my safe in the basement. That somewhere there is a perfect world for us all. For some, perhaps it is in the cinema watching this.",
+      "author": "john",
+      "id": 1
+    },
+    {
+      "title": "JoJo Rabbit",
+      "body": "Jojo Rabbit demonstrates that there is hope, both for humanity and Hollywood. By the latter I mean it's hard to imagine how a film this original got made in an era of reboots, remakes, sequels and prequels (mostly bad)The characters are charming and quirky, the dialogue clever and the plot wisely confines itself to telling an intensely personal story rather than one of the war itself. The young male star is perfect, and the other performances shine as well. It does seem though that Scarlett got less time on the screen than she deserves. The director cleverly doesn't show us certain things, and a lot of good choices were made in the editing room.",
+      "author": "lorens",
+      "id": 2
+    }
+  ]
+}
